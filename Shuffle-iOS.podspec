@@ -16,6 +16,6 @@ s.author       = { "Mac Gallagher" => "jmgallagher36@gmail.com" }
 s.source       = { :git => "https://github.com/mac-gallagher/Shuffle.git", :tag => "v0.1.0" }
 
 s.swift_version = "5.0"
-s.source_files = "Sources/**/*"
+s.source_files = "Sources/**/.{h,swift}"
 
 end
